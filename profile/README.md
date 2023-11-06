@@ -12,8 +12,7 @@ consulting.
 Our customers comprise industries such as telecommunications, fashion,
 cosmetics, banking and many more.
 
-We are part of [Axel Springer SE](https://github.com/axelspringer) group,
-with our offices located in Hamburg, Germany.
+We are part of `$CURRENT_OWNER`, with our offices located in Hamburg, Germany.
 
 ## Our technical focus
 
