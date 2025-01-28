@@ -25,5 +25,5 @@ We are part of Havas, with our offices located in Hamburg, Germany.
 * Our [homepage](https://www.eprofessional.de/)
 * [Contact](https://www.eprofessional.de/kontakt) our sales team
 * [Instagram](https://www.instagram.com/eprofessional_/), [Blog](https://www.eprofessional.de/brainworks/blog), [LinkedIn](https://de.linkedin.com/company/eprofessional-gmbh-digital-technology-consultants)
-* Looking for [job vacancies](https://eprofessional.jobs.personio.de/)?
+* Looking for [job vacancies](https://wd3.myworkdaysite.com/en-US/recruiting/havas/GroupExternalCareerSite?CF_LRV_-_Job_Requisition_Agency_Extended=51ae2026038010018b02495445fd0000)?
 * [Imprint](https://www.eprofessional.de/meta/impressum)
